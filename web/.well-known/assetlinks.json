@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.restaurant.zingmyorder",
       "sha256_cert_fingerprints": [
-        "F0:89:D1:42:88:2B:F1:90:71:A6:FC:43:CD:74:D3:46:2E:E8:E8:C5:A4:CC:07:71:33:4A:F5:09:7C:5B:2D:4C"
+        "F0:89:D1:42:88:2B:F1:90:71:A6:FC:43:CD:74:D3:46:2E:E8:E8:C5:A4:CC:07:71:33:4A:F5:09:7C:5B:2D:4C",
+        "E3:24:8C:4D:CC:8C:31:6B:4A:90:6D:67:07:02:CE:61:09:D9:D5:15:AA:21:A0:85:7C:19:FE:52:F2:DC:6F:DE"
       ]
     }
   }
